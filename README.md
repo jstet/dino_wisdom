@@ -10,7 +10,7 @@ chmod +x dino.sh
 ```
 Then create an alias for the script (for example in `~/.bashrc`)
 ```
-alias dino="/bin/zsh /home/jstet/.local/bin/dino.sh"
+alias dino="bash /home/jstet/.local/bin/dino.sh"
 ```
 
 ![dino](dino.png)
