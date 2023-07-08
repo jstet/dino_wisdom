@@ -4,12 +4,13 @@ Simple bash script to display a wise dino in rainbow colours
 - https://github.com/MatteoGuadrini/dinosay
 - lolcat
 ## Installation
-Download the script, put it somewhere, for example ~/.local/bin/welcome.sh and make it executable with
+Download the script, put it somewhere, for example `~/.local/bin/welcome.sh` and make it executable with
 ```
 chmod +x dino.sh
 ```
-Then create an alias for the script (for example in .bashrc)
+Then create an alias for the script (for example in `~/.bashrc`)
 ```
 alias dino="/bin/zsh /home/jstet/.local/bin/dino.sh"
 ```
 
+![dino](dino.png)
