@@ -3,6 +3,8 @@ Simple bash script to display a wise dino in rainbow colours
 ## Dependencies
 - https://github.com/MatteoGuadrini/dinosay
 - lolcat
+- jq
+
 ## Installation
 Download the script, put it somewhere, for example `~/.local/bin/welcome.sh` and make it executable with
 ```
